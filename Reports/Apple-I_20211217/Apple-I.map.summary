@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Fri Dec 17 23:59:37 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+Revision Name : Apple-I
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 9261
+Total pins : 142
+Total virtual pins : 0
+Total block memory bits : 1,422,552
+Total DSP Blocks : 29
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2
+Total DLLs : 0
