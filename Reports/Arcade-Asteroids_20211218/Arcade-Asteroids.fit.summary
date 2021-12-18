@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sat Dec 18 00:38:27 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+Revision Name : Arcade-Asteroids
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 8,479 / 41,910 ( 20 % )
+Total registers : 10368
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 2,520,451 / 5,662,720 ( 45 % )
+Total RAM Blocks : 316 / 553 ( 57 % )
+Total DSP Blocks : 37 / 112 ( 33 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3 / 6 ( 50 % )
+Total DLLs : 0 / 4 ( 0 % )
