@@ -1,0 +1,145 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'vip|hps|fpga_interfaces|clocks_resets|h2f_user0_clk'
+Slack : -31.858
+TNS   : -1407.396
+
+Type  : Setup 'pll_hdmi|pll_hdmi_inst|altera_pll_i|cyclonev_pll|counter[0].output_counter|divclk'
+Slack : -6.321
+TNS   : -385.921
+
+Type  : Setup 'HDMI_CLK'
+Slack : -2.029
+TNS   : -32.554
+
+Type  : Setup 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.043
+TNS   : 0.000
+
+Type  : Setup 'VID_CLK'
+Slack : 2.991
+TNS   : 0.000
+
+Type  : Setup 'FPGA_CLK3_50'
+Slack : 3.847
+TNS   : 0.000
+
+Type  : Setup 'FPGA_CLK1_50'
+Slack : 4.484
+TNS   : 0.000
+
+Type  : Setup 'FPGA_CLK2_50'
+Slack : 12.996
+TNS   : 0.000
+
+Type  : Hold 'HDMI_CLK'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Hold 'vip|hps|fpga_interfaces|clocks_resets|h2f_user0_clk'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Hold 'VID_CLK'
+Slack : 0.269
+TNS   : 0.000
+
+Type  : Hold 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Hold 'FPGA_CLK1_50'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Hold 'FPGA_CLK2_50'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Hold 'pll_hdmi|pll_hdmi_inst|altera_pll_i|cyclonev_pll|counter[0].output_counter|divclk'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Hold 'FPGA_CLK3_50'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Recovery 'vip|hps|fpga_interfaces|clocks_resets|h2f_user0_clk'
+Slack : 2.358
+TNS   : 0.000
+
+Type  : Recovery 'VID_CLK'
+Slack : 8.428
+TNS   : 0.000
+
+Type  : Recovery 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 9.052
+TNS   : 0.000
+
+Type  : Recovery 'FPGA_CLK3_50'
+Slack : 11.015
+TNS   : 0.000
+
+Type  : Recovery 'FPGA_CLK1_50'
+Slack : 14.240
+TNS   : 0.000
+
+Type  : Removal 'VID_CLK'
+Slack : 0.504
+TNS   : 0.000
+
+Type  : Removal 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.547
+TNS   : 0.000
+
+Type  : Removal 'vip|hps|fpga_interfaces|clocks_resets|h2f_user0_clk'
+Slack : 0.552
+TNS   : 0.000
+
+Type  : Removal 'FPGA_CLK1_50'
+Slack : 1.069
+TNS   : 0.000
+
+Type  : Removal 'FPGA_CLK3_50'
+Slack : 1.922
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.122
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'pll_hdmi|pll_hdmi_inst|altera_pll_i|cyclonev_pll|fpll_0|fpll|vcoph[0]'
+Slack : 1.122
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'pll_hdmi|pll_hdmi_inst|altera_pll_i|cyclonev_pll|counter[0].output_counter|divclk'
+Slack : 1.986
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'vip|hps|fpga_interfaces|clocks_resets|h2f_user0_clk'
+Slack : 3.581
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'emu|pll|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 5.289
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'VID_CLK'
+Slack : 5.297
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'FPGA_CLK3_50'
+Slack : 7.871
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : 9.175
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'FPGA_CLK2_50'
+Slack : 9.179
+TNS   : 0.000
+
+------------------------------------------------------------
