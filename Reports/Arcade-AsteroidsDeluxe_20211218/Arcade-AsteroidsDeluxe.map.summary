@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Dec 18 00:54:37 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+Revision Name : Arcade-AsteroidsDeluxe
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 10590
+Total pins : 145
+Total virtual pins : 0
+Total block memory bits : 2,553,219
+Total DSP Blocks : 36
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3
+Total DLLs : 0
