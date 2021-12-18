@@ -1,0 +1,20 @@
+Fitter Status : Successful - Fri Dec 17 23:07:59 2021
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+Revision Name : Arcade-Galaga
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 18,387 / 41,910 ( 44 % )
+Total registers : 20526
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 803,442 / 5,662,720 ( 14 % )
+Total RAM Blocks : 121 / 553 ( 22 % )
+Total DSP Blocks : 67 / 112 ( 60 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3 / 6 ( 50 % )
+Total DLLs : 0 / 4 ( 0 % )
