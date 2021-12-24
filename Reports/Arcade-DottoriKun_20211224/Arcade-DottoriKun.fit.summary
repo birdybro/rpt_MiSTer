@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Dec 23 21:27:19 2021
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+Revision Name : Arcade-DottoriKun
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 8,845 / 41,910 ( 21 % )
+Total registers : 11593
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 471,874 / 5,662,720 ( 8 % )
+Total RAM Blocks : 70 / 553 ( 13 % )
+Total DSP Blocks : 34 / 112 ( 30 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3 / 6 ( 50 % )
+Total DLLs : 0 / 4 ( 0 % )
