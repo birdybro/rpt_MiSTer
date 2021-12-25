@@ -1,0 +1,20 @@
+Fitter Status : Successful - Fri Dec 24 21:18:00 2021
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+Revision Name : InputTest
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 9,005 / 41,910 ( 21 % )
+Total registers : 12088
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 729,146 / 5,662,720 ( 13 % )
+Total RAM Blocks : 106 / 553 ( 19 % )
+Total DSP Blocks : 34 / 112 ( 30 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3 / 6 ( 50 % )
+Total DLLs : 0 / 4 ( 0 % )

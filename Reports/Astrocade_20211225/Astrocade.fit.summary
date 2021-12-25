@@ -1,0 +1,20 @@
+Fitter Status : Successful - Fri Dec 24 19:36:01 2021
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+Revision Name : Astrocade
+Top-level Entity Name : sys_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 10,455 / 41,910 ( 25 % )
+Total registers : 13955
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 805,939 / 5,662,720 ( 14 % )
+Total RAM Blocks : 109 / 553 ( 20 % )
+Total DSP Blocks : 34 / 112 ( 30 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 3 / 6 ( 50 % )
+Total DLLs : 0 / 4 ( 0 % )

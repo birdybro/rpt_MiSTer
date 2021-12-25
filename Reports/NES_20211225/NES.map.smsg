@@ -1,0 +1,362 @@
+Info (10281): Verilog HDL Declaration information at altera_pll_reconfig_core.v(112): object "LOCKED" differs only in case from object "locked" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 112
+Info (10281): Verilog HDL Declaration information at altera_pll_reconfig_core.v(1901): object "dps_done" differs only in case from object "DPS_DONE" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 1901
+Info (10281): Verilog HDL Declaration information at altera_pll_reconfig_core.v(1893): object "dps_changed" differs only in case from object "DPS_CHANGED" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 1893
+Info (12021): Found 6 design units, including 6 entities, in source file sys/pll_cfg/altera_pll_reconfig_core.v
+Info (10281): Verilog HDL Declaration information at sys_top.v(131): object "sd_miso" differs only in case from object "SD_MISO" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 131
+Info (10281): Verilog HDL Declaration information at sys_top.v(93): object "BTN_USER" differs only in case from object "btn_user" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 93
+Info (10281): Verilog HDL Declaration information at sys_top.v(94): object "BTN_OSD" differs only in case from object "btn_osd" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 94
+Info (10281): Verilog HDL Declaration information at sys_top.v(38): object "HDMI_TX_CLK" differs only in case from object "hdmi_tx_clk" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 38
+Info (10281): Verilog HDL Declaration information at sys_top.v(75): object "VGA_HS" differs only in case from object "vga_hs" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 75
+Info (10281): Verilog HDL Declaration information at sys_top.v(76): object "VGA_VS" differs only in case from object "vga_vs" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 76
+Info (10281): Verilog HDL Declaration information at sys_top.v(80): object "AUDIO_L" differs only in case from object "audio_l" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 80
+Info (10281): Verilog HDL Declaration information at sys_top.v(81): object "AUDIO_R" differs only in case from object "audio_r" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 81
+Info (10281): Verilog HDL Declaration information at sys_top.v(90): object "LED_USER" differs only in case from object "led_user" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 90
+Info (10281): Verilog HDL Declaration information at sys_top.v(92): object "LED_POWER" differs only in case from object "led_power" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 92
+Info (10281): Verilog HDL Declaration information at sys_top.v(746): object "FB_EN" differs only in case from object "fb_en" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 746
+Info (10281): Verilog HDL Declaration information at sys_top.v(747): object "FB_FMT" differs only in case from object "fb_fmt" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 747
+Info (10281): Verilog HDL Declaration information at sys_top.v(748): object "FB_WIDTH" differs only in case from object "fb_width" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 748
+Info (10281): Verilog HDL Declaration information at sys_top.v(749): object "FB_HEIGHT" differs only in case from object "fb_height" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 749
+Info (10281): Verilog HDL Declaration information at sys_top.v(750): object "FB_BASE" differs only in case from object "fb_base" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 750
+Info (10281): Verilog HDL Declaration information at sys_top.v(751): object "FB_STRIDE" differs only in case from object "fb_stride" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/sys_top.v Line: 751
+Info (10281): Verilog HDL Declaration information at hq2x.sv(304): object "A" differs only in case from object "a" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 304
+Info (10281): Verilog HDL Declaration information at hq2x.sv(305): object "B" differs only in case from object "b" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 305
+Info (10281): Verilog HDL Declaration information at hq2x.sv(306): object "D" differs only in case from object "d" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 306
+Info (10281): Verilog HDL Declaration information at hq2x.sv(303): object "E" differs only in case from object "e" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 303
+Info (10281): Verilog HDL Declaration information at hq2x.sv(308): object "H" differs only in case from object "h" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 308
+Info (10281): Verilog HDL Declaration information at hq2x.sv(307): object "F" differs only in case from object "f" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hq2x.sv Line: 307
+Info (10281): Verilog HDL Declaration information at scandoubler.v(26): object "hq2x" differs only in case from object "Hq2x" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/scandoubler.v Line: 26
+Warning (10720): Verilog HDL or VHDL warning at sys/video_mixer.sv(17): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 12161. File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/video_mixer.sv Line: 17
+Info (10281): Verilog HDL Declaration information at video_freak.sv(33): object "SCALE" differs only in case from object "scale" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/video_freak.sv Line: 33
+Info (10281): Verilog HDL Declaration information at arcade_video.v(31): object "clk_video" differs only in case from object "CLK_VIDEO" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/arcade_video.v Line: 31
+Info (10281): Verilog HDL Declaration information at arcade_video.v(179): object "FB_EN" differs only in case from object "fb_en" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/arcade_video.v Line: 179
+Warning (10273): Verilog HDL warning at VRC.sv(28): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 28
+Warning (10273): Verilog HDL warning at VRC.sv(29): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 29
+Warning (10273): Verilog HDL warning at VRC.sv(31): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 31
+Warning (10273): Verilog HDL warning at VRC.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 36
+Warning (10273): Verilog HDL warning at VRC.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 37
+Warning (10273): Verilog HDL warning at VRC.sv(125): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 125
+Warning (10273): Verilog HDL warning at VRC.sv(126): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 126
+Warning (10273): Verilog HDL warning at VRC.sv(128): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 128
+Warning (10273): Verilog HDL warning at VRC.sv(133): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 133
+Warning (10273): Verilog HDL warning at VRC.sv(134): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 134
+Warning (10273): Verilog HDL warning at VRC.sv(236): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 236
+Warning (10273): Verilog HDL warning at VRC.sv(237): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 237
+Warning (10273): Verilog HDL warning at VRC.sv(239): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 239
+Warning (10273): Verilog HDL warning at VRC.sv(244): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 244
+Warning (10273): Verilog HDL warning at VRC.sv(245): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 245
+Warning (10273): Verilog HDL warning at VRC.sv(447): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 447
+Warning (10273): Verilog HDL warning at VRC.sv(448): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 448
+Warning (10273): Verilog HDL warning at VRC.sv(450): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 450
+Warning (10273): Verilog HDL warning at VRC.sv(455): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 455
+Warning (10273): Verilog HDL warning at VRC.sv(456): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 456
+Warning (10273): Verilog HDL warning at VRC.sv(543): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 543
+Warning (10273): Verilog HDL warning at VRC.sv(544): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 544
+Warning (10273): Verilog HDL warning at VRC.sv(546): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 546
+Warning (10273): Verilog HDL warning at VRC.sv(551): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 551
+Warning (10273): Verilog HDL warning at VRC.sv(552): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/VRC.sv Line: 552
+Warning (10273): Verilog HDL warning at Sunsoft.sv(33): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 33
+Warning (10273): Verilog HDL warning at Sunsoft.sv(34): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 34
+Warning (10273): Verilog HDL warning at Sunsoft.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 36
+Warning (10273): Verilog HDL warning at Sunsoft.sv(41): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 41
+Warning (10273): Verilog HDL warning at Sunsoft.sv(42): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 42
+Warning (10273): Verilog HDL warning at Sunsoft.sv(511): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 511
+Warning (10273): Verilog HDL warning at Sunsoft.sv(512): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 512
+Warning (10273): Verilog HDL warning at Sunsoft.sv(514): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 514
+Warning (10273): Verilog HDL warning at Sunsoft.sv(519): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 519
+Warning (10273): Verilog HDL warning at Sunsoft.sv(520): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 520
+Warning (10273): Verilog HDL warning at Sunsoft.sv(652): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 652
+Warning (10273): Verilog HDL warning at Sunsoft.sv(653): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 653
+Warning (10273): Verilog HDL warning at Sunsoft.sv(655): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 655
+Warning (10273): Verilog HDL warning at Sunsoft.sv(660): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 660
+Warning (10273): Verilog HDL warning at Sunsoft.sv(661): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sunsoft.sv Line: 661
+Warning (10273): Verilog HDL warning at Sachen.sv(29): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 29
+Warning (10273): Verilog HDL warning at Sachen.sv(30): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 30
+Warning (10273): Verilog HDL warning at Sachen.sv(32): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 32
+Warning (10273): Verilog HDL warning at Sachen.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 37
+Warning (10273): Verilog HDL warning at Sachen.sv(38): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 38
+Warning (10268): Verilog HDL information at Sachen.sv(63): always construct contains both blocking and non-blocking assignments File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 63
+Warning (10273): Verilog HDL warning at Sachen.sv(171): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 171
+Warning (10273): Verilog HDL warning at Sachen.sv(172): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 172
+Warning (10273): Verilog HDL warning at Sachen.sv(174): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 174
+Warning (10273): Verilog HDL warning at Sachen.sv(179): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 179
+Warning (10273): Verilog HDL warning at Sachen.sv(180): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 180
+Warning (10273): Verilog HDL warning at Sachen.sv(288): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 288
+Warning (10273): Verilog HDL warning at Sachen.sv(289): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 289
+Warning (10273): Verilog HDL warning at Sachen.sv(291): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 291
+Warning (10273): Verilog HDL warning at Sachen.sv(296): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 296
+Warning (10273): Verilog HDL warning at Sachen.sv(297): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Sachen.sv Line: 297
+Warning (10273): Verilog HDL warning at Namco.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Namco.sv Line: 36
+Warning (10273): Verilog HDL warning at Namco.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Namco.sv Line: 37
+Warning (10273): Verilog HDL warning at Namco.sv(39): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Namco.sv Line: 39
+Warning (10273): Verilog HDL warning at Namco.sv(44): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Namco.sv Line: 44
+Warning (10273): Verilog HDL warning at Namco.sv(45): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/Namco.sv Line: 45
+Warning (10273): Verilog HDL warning at MMC5.sv(48): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 48
+Warning (10273): Verilog HDL warning at MMC5.sv(49): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 49
+Warning (10273): Verilog HDL warning at MMC5.sv(51): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 51
+Warning (10273): Verilog HDL warning at MMC5.sv(52): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 52
+Warning (10273): Verilog HDL warning at MMC5.sv(57): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 57
+Warning (10273): Verilog HDL warning at MMC5.sv(58): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC5.sv Line: 58
+Warning (10273): Verilog HDL warning at MMC3.sv(29): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 29
+Warning (10273): Verilog HDL warning at MMC3.sv(30): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 30
+Warning (10273): Verilog HDL warning at MMC3.sv(32): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 32
+Warning (10273): Verilog HDL warning at MMC3.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 37
+Warning (10273): Verilog HDL warning at MMC3.sv(38): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 38
+Warning (10273): Verilog HDL warning at MMC3.sv(237): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 237
+Warning (10273): Verilog HDL warning at MMC3.sv(238): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 238
+Warning (10273): Verilog HDL warning at MMC3.sv(240): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 240
+Warning (10273): Verilog HDL warning at MMC3.sv(245): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 245
+Warning (10273): Verilog HDL warning at MMC3.sv(246): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 246
+Warning (10273): Verilog HDL warning at MMC3.sv(667): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 667
+Warning (10273): Verilog HDL warning at MMC3.sv(668): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 668
+Warning (10273): Verilog HDL warning at MMC3.sv(670): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 670
+Warning (10273): Verilog HDL warning at MMC3.sv(675): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 675
+Warning (10273): Verilog HDL warning at MMC3.sv(676): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 676
+Warning (10273): Verilog HDL warning at MMC3.sv(840): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 840
+Warning (10273): Verilog HDL warning at MMC3.sv(841): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 841
+Warning (10273): Verilog HDL warning at MMC3.sv(843): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 843
+Warning (10273): Verilog HDL warning at MMC3.sv(848): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 848
+Warning (10273): Verilog HDL warning at MMC3.sv(849): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC3.sv Line: 849
+Warning (10273): Verilog HDL warning at MMC2.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 36
+Warning (10273): Verilog HDL warning at MMC2.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 37
+Warning (10273): Verilog HDL warning at MMC2.sv(39): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 39
+Warning (10273): Verilog HDL warning at MMC2.sv(44): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 44
+Warning (10273): Verilog HDL warning at MMC2.sv(45): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 45
+Warning (10273): Verilog HDL warning at MMC2.sv(232): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 232
+Warning (10273): Verilog HDL warning at MMC2.sv(233): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 233
+Warning (10273): Verilog HDL warning at MMC2.sv(235): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 235
+Warning (10273): Verilog HDL warning at MMC2.sv(240): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 240
+Warning (10273): Verilog HDL warning at MMC2.sv(241): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC2.sv Line: 241
+Warning (10273): Verilog HDL warning at MMC1.sv(35): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 35
+Warning (10273): Verilog HDL warning at MMC1.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 36
+Warning (10273): Verilog HDL warning at MMC1.sv(38): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 38
+Warning (10273): Verilog HDL warning at MMC1.sv(43): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 43
+Warning (10273): Verilog HDL warning at MMC1.sv(44): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 44
+Warning (10273): Verilog HDL warning at MMC1.sv(236): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 236
+Warning (10273): Verilog HDL warning at MMC1.sv(237): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/MMC1.sv Line: 237
+Warning (10273): Verilog HDL warning at misc.sv(28): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 28
+Warning (10273): Verilog HDL warning at misc.sv(29): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 29
+Warning (10273): Verilog HDL warning at misc.sv(31): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 31
+Warning (10273): Verilog HDL warning at misc.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 36
+Warning (10273): Verilog HDL warning at misc.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 37
+Warning (10273): Verilog HDL warning at misc.sv(143): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 143
+Warning (10273): Verilog HDL warning at misc.sv(144): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 144
+Warning (10273): Verilog HDL warning at misc.sv(146): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 146
+Warning (10273): Verilog HDL warning at misc.sv(151): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 151
+Warning (10273): Verilog HDL warning at misc.sv(152): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 152
+Warning (10273): Verilog HDL warning at misc.sv(402): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 402
+Warning (10273): Verilog HDL warning at misc.sv(403): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 403
+Warning (10273): Verilog HDL warning at misc.sv(405): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 405
+Warning (10273): Verilog HDL warning at misc.sv(410): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 410
+Warning (10273): Verilog HDL warning at misc.sv(411): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 411
+Warning (10273): Verilog HDL warning at misc.sv(594): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 594
+Warning (10273): Verilog HDL warning at misc.sv(595): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 595
+Warning (10273): Verilog HDL warning at misc.sv(597): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 597
+Warning (10273): Verilog HDL warning at misc.sv(602): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 602
+Warning (10273): Verilog HDL warning at misc.sv(603): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 603
+Warning (10273): Verilog HDL warning at misc.sv(717): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 717
+Warning (10273): Verilog HDL warning at misc.sv(718): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 718
+Warning (10273): Verilog HDL warning at misc.sv(720): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 720
+Warning (10273): Verilog HDL warning at misc.sv(725): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 725
+Warning (10273): Verilog HDL warning at misc.sv(726): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 726
+Warning (10273): Verilog HDL warning at misc.sv(823): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 823
+Warning (10273): Verilog HDL warning at misc.sv(824): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 824
+Warning (10273): Verilog HDL warning at misc.sv(826): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 826
+Warning (10273): Verilog HDL warning at misc.sv(831): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 831
+Warning (10273): Verilog HDL warning at misc.sv(832): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 832
+Warning (10273): Verilog HDL warning at misc.sv(963): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 963
+Warning (10273): Verilog HDL warning at misc.sv(964): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 964
+Warning (10273): Verilog HDL warning at misc.sv(966): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 966
+Warning (10273): Verilog HDL warning at misc.sv(971): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 971
+Warning (10273): Verilog HDL warning at misc.sv(972): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 972
+Warning (10273): Verilog HDL warning at misc.sv(1035): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1035
+Warning (10273): Verilog HDL warning at misc.sv(1036): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1036
+Warning (10273): Verilog HDL warning at misc.sv(1038): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1038
+Warning (10273): Verilog HDL warning at misc.sv(1043): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1043
+Warning (10273): Verilog HDL warning at misc.sv(1044): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1044
+Warning (10273): Verilog HDL warning at misc.sv(1087): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1087
+Warning (10273): Verilog HDL warning at misc.sv(1088): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1088
+Warning (10273): Verilog HDL warning at misc.sv(1090): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1090
+Warning (10273): Verilog HDL warning at misc.sv(1095): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1095
+Warning (10273): Verilog HDL warning at misc.sv(1096): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1096
+Warning (10273): Verilog HDL warning at misc.sv(1158): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1158
+Warning (10273): Verilog HDL warning at misc.sv(1159): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1159
+Warning (10273): Verilog HDL warning at misc.sv(1161): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1161
+Warning (10273): Verilog HDL warning at misc.sv(1166): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1166
+Warning (10273): Verilog HDL warning at misc.sv(1167): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1167
+Warning (10273): Verilog HDL warning at misc.sv(1234): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1234
+Warning (10273): Verilog HDL warning at misc.sv(1235): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1235
+Warning (10273): Verilog HDL warning at misc.sv(1237): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1237
+Warning (10273): Verilog HDL warning at misc.sv(1242): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1242
+Warning (10273): Verilog HDL warning at misc.sv(1243): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1243
+Warning (10273): Verilog HDL warning at misc.sv(1338): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1338
+Warning (10273): Verilog HDL warning at misc.sv(1339): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1339
+Warning (10273): Verilog HDL warning at misc.sv(1341): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1341
+Warning (10273): Verilog HDL warning at misc.sv(1346): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1346
+Warning (10273): Verilog HDL warning at misc.sv(1347): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1347
+Warning (10273): Verilog HDL warning at misc.sv(1416): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1416
+Warning (10273): Verilog HDL warning at misc.sv(1417): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1417
+Warning (10273): Verilog HDL warning at misc.sv(1419): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1419
+Warning (10273): Verilog HDL warning at misc.sv(1424): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1424
+Warning (10273): Verilog HDL warning at misc.sv(1425): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1425
+Warning (10273): Verilog HDL warning at misc.sv(1498): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1498
+Warning (10273): Verilog HDL warning at misc.sv(1499): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1499
+Warning (10273): Verilog HDL warning at misc.sv(1501): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1501
+Warning (10273): Verilog HDL warning at misc.sv(1506): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1506
+Warning (10273): Verilog HDL warning at misc.sv(1507): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1507
+Warning (10273): Verilog HDL warning at misc.sv(1570): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1570
+Warning (10273): Verilog HDL warning at misc.sv(1571): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1571
+Warning (10273): Verilog HDL warning at misc.sv(1573): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1573
+Warning (10273): Verilog HDL warning at misc.sv(1578): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1578
+Warning (10273): Verilog HDL warning at misc.sv(1579): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1579
+Warning (10273): Verilog HDL warning at misc.sv(1708): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1708
+Warning (10273): Verilog HDL warning at misc.sv(1709): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1709
+Warning (10273): Verilog HDL warning at misc.sv(1711): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1711
+Warning (10273): Verilog HDL warning at misc.sv(1716): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1716
+Warning (10273): Verilog HDL warning at misc.sv(1717): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1717
+Warning (10273): Verilog HDL warning at misc.sv(1794): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1794
+Warning (10273): Verilog HDL warning at misc.sv(1795): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1795
+Warning (10273): Verilog HDL warning at misc.sv(1797): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1797
+Warning (10273): Verilog HDL warning at misc.sv(1802): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1802
+Warning (10273): Verilog HDL warning at misc.sv(1803): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1803
+Warning (10273): Verilog HDL warning at misc.sv(1904): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1904
+Warning (10273): Verilog HDL warning at misc.sv(1905): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1905
+Warning (10273): Verilog HDL warning at misc.sv(1907): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1907
+Warning (10273): Verilog HDL warning at misc.sv(1912): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1912
+Warning (10273): Verilog HDL warning at misc.sv(1913): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 1913
+Warning (10273): Verilog HDL warning at misc.sv(2060): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2060
+Warning (10273): Verilog HDL warning at misc.sv(2061): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2061
+Warning (10273): Verilog HDL warning at misc.sv(2063): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2063
+Warning (10273): Verilog HDL warning at misc.sv(2068): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2068
+Warning (10273): Verilog HDL warning at misc.sv(2069): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2069
+Warning (10273): Verilog HDL warning at misc.sv(2135): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2135
+Warning (10273): Verilog HDL warning at misc.sv(2136): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2136
+Warning (10273): Verilog HDL warning at misc.sv(2138): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2138
+Warning (10273): Verilog HDL warning at misc.sv(2143): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2143
+Warning (10273): Verilog HDL warning at misc.sv(2144): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2144
+Warning (10273): Verilog HDL warning at misc.sv(2345): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2345
+Warning (10273): Verilog HDL warning at misc.sv(2346): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2346
+Warning (10273): Verilog HDL warning at misc.sv(2348): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2348
+Warning (10273): Verilog HDL warning at misc.sv(2353): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2353
+Warning (10273): Verilog HDL warning at misc.sv(2354): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/misc.sv Line: 2354
+Warning (10273): Verilog HDL warning at JYCompany.sv(62): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 62
+Warning (10273): Verilog HDL warning at JYCompany.sv(63): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 63
+Warning (10273): Verilog HDL warning at JYCompany.sv(65): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 65
+Warning (10273): Verilog HDL warning at JYCompany.sv(70): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 70
+Warning (10273): Verilog HDL warning at JYCompany.sv(71): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 71
+Warning (10268): Verilog HDL information at JYCompany.sv(123): always construct contains both blocking and non-blocking assignments File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/JYCompany.sv Line: 123
+Warning (10273): Verilog HDL warning at generic.sv(28): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 28
+Warning (10273): Verilog HDL warning at generic.sv(29): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 29
+Warning (10273): Verilog HDL warning at generic.sv(31): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 31
+Warning (10273): Verilog HDL warning at generic.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 36
+Warning (10273): Verilog HDL warning at generic.sv(37): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 37
+Warning (10273): Verilog HDL warning at generic.sv(81): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 81
+Warning (10273): Verilog HDL warning at generic.sv(82): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 82
+Warning (10273): Verilog HDL warning at generic.sv(84): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 84
+Warning (10273): Verilog HDL warning at generic.sv(89): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 89
+Warning (10273): Verilog HDL warning at generic.sv(90): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 90
+Warning (10273): Verilog HDL warning at generic.sv(143): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 143
+Warning (10273): Verilog HDL warning at generic.sv(144): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 144
+Warning (10273): Verilog HDL warning at generic.sv(146): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 146
+Warning (10273): Verilog HDL warning at generic.sv(151): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 151
+Warning (10273): Verilog HDL warning at generic.sv(152): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 152
+Warning (10273): Verilog HDL warning at generic.sv(241): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 241
+Warning (10273): Verilog HDL warning at generic.sv(242): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 242
+Warning (10273): Verilog HDL warning at generic.sv(244): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 244
+Warning (10273): Verilog HDL warning at generic.sv(249): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 249
+Warning (10273): Verilog HDL warning at generic.sv(250): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 250
+Warning (10273): Verilog HDL warning at generic.sv(359): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 359
+Warning (10273): Verilog HDL warning at generic.sv(360): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 360
+Warning (10273): Verilog HDL warning at generic.sv(362): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 362
+Warning (10273): Verilog HDL warning at generic.sv(367): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 367
+Warning (10273): Verilog HDL warning at generic.sv(368): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 368
+Warning (10273): Verilog HDL warning at generic.sv(448): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 448
+Warning (10273): Verilog HDL warning at generic.sv(449): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 449
+Warning (10273): Verilog HDL warning at generic.sv(451): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 451
+Warning (10273): Verilog HDL warning at generic.sv(456): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 456
+Warning (10273): Verilog HDL warning at generic.sv(457): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 457
+Warning (10273): Verilog HDL warning at generic.sv(545): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 545
+Warning (10273): Verilog HDL warning at generic.sv(546): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 546
+Warning (10273): Verilog HDL warning at generic.sv(548): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 548
+Warning (10273): Verilog HDL warning at generic.sv(553): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 553
+Warning (10273): Verilog HDL warning at generic.sv(554): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 554
+Warning (10273): Verilog HDL warning at generic.sv(618): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 618
+Warning (10273): Verilog HDL warning at generic.sv(619): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 619
+Warning (10273): Verilog HDL warning at generic.sv(621): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 621
+Warning (10273): Verilog HDL warning at generic.sv(626): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 626
+Warning (10273): Verilog HDL warning at generic.sv(627): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 627
+Warning (10273): Verilog HDL warning at generic.sv(713): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 713
+Warning (10273): Verilog HDL warning at generic.sv(714): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 714
+Warning (10273): Verilog HDL warning at generic.sv(716): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 716
+Warning (10273): Verilog HDL warning at generic.sv(721): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 721
+Warning (10273): Verilog HDL warning at generic.sv(722): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 722
+Warning (10273): Verilog HDL warning at generic.sv(808): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 808
+Warning (10273): Verilog HDL warning at generic.sv(809): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 809
+Warning (10273): Verilog HDL warning at generic.sv(811): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 811
+Warning (10273): Verilog HDL warning at generic.sv(816): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 816
+Warning (10273): Verilog HDL warning at generic.sv(817): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 817
+Warning (10273): Verilog HDL warning at generic.sv(914): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 914
+Warning (10273): Verilog HDL warning at generic.sv(915): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 915
+Warning (10273): Verilog HDL warning at generic.sv(917): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 917
+Warning (10273): Verilog HDL warning at generic.sv(922): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 922
+Warning (10273): Verilog HDL warning at generic.sv(923): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 923
+Warning (10273): Verilog HDL warning at generic.sv(990): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 990
+Warning (10273): Verilog HDL warning at generic.sv(991): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 991
+Warning (10273): Verilog HDL warning at generic.sv(993): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 993
+Warning (10273): Verilog HDL warning at generic.sv(994): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 994
+Warning (10273): Verilog HDL warning at generic.sv(999): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 999
+Warning (10273): Verilog HDL warning at generic.sv(1000): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/generic.sv Line: 1000
+Warning (10273): Verilog HDL warning at FDS.sv(33): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/FDS.sv Line: 33
+Warning (10273): Verilog HDL warning at FDS.sv(34): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/FDS.sv Line: 34
+Warning (10273): Verilog HDL warning at FDS.sv(36): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/FDS.sv Line: 36
+Warning (10273): Verilog HDL warning at FDS.sv(41): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/FDS.sv Line: 41
+Warning (10273): Verilog HDL warning at FDS.sv(42): extended using "x" or "z" File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/mappers/FDS.sv Line: 42
+Info (10281): Verilog HDL Declaration information at sdram.sv(80): object "MODE" differs only in case from object "mode" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/sdram.sv Line: 80
+Info (10281): Verilog HDL Declaration information at miracle.sv(254): object "TX_SHIFT" differs only in case from object "tx_shift" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/miracle.sv Line: 254
+Info (10281): Verilog HDL Declaration information at miracle.sv(331): object "RX_SHIFT" differs only in case from object "rx_shift" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/miracle.sv Line: 331
+Info (10281): Verilog HDL Declaration information at video.sv(27): object "HBlank" differs only in case from object "hblank" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/video.sv Line: 27
+Info (10281): Verilog HDL Declaration information at video.sv(28): object "VBlank" differs only in case from object "vblank" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/rtl/video.sv Line: 28
+Info (10281): Verilog HDL Declaration information at NES.sv(35): object "VGA_DE" differs only in case from object "vga_de" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/NES.sv Line: 35
+Info (10281): Verilog HDL Declaration information at NES.sv(84): object "BUTTONS" differs only in case from object "buttons" in the same scope File: C:/Users/aberu/Downloads/NES_MiSTer-master/NES.sv Line: 84
+Warning (10034): Output port "lvds_clk" at altera_pll.v(320) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 320
+Warning (10034): Output port "loaden" at altera_pll.v(321) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 321
+Warning (10034): Output port "extclk_out" at altera_pll.v(322) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 322
+Warning (10034): Output port "extclk" at altera_cyclonev_pll.v(632) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 632
+Warning (10034): Output port "clkout[0]" at altera_cyclonev_pll.v(637) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 637
+Warning (10034): Output port "loaden" at altera_cyclonev_pll.v(641) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 641
+Warning (10034): Output port "lvdsclk" at altera_cyclonev_pll.v(642) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 642
+Warning (10036): Verilog HDL or VHDL warning at altera_pll_reconfig_core.v(208): object "dps_start_assert" assigned a value but never read File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 208
+Warning (10270): Verilog HDL Case Statement warning at altera_pll_reconfig_core.v(1510): incomplete case statement has no default case item File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 1510
+Warning (10270): Verilog HDL Case Statement warning at altera_pll_reconfig_core.v(1526): incomplete case statement has no default case item File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/pll_cfg/altera_pll_reconfig_core.v Line: 1526
+Warning (10034): Output port "lvds_clk" at altera_pll.v(320) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 320
+Warning (10034): Output port "loaden" at altera_pll.v(321) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 321
+Warning (10034): Output port "extclk_out" at altera_pll.v(322) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 322
+Warning (10034): Output port "extclk" at altera_cyclonev_pll.v(632) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 632
+Warning (10034): Output port "clkout[0]" at altera_cyclonev_pll.v(637) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 637
+Warning (10034): Output port "loaden" at altera_cyclonev_pll.v(641) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 641
+Warning (10034): Output port "lvdsclk" at altera_cyclonev_pll.v(642) has no driver File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_cyclonev_pll.v Line: 642
+Warning (12030): Port "extclk" on the entity instantiation of "cyclonev_pll" is connected to a signal of width 1. The formal width of the signal in the module is 2.  The extra bits will be left dangling without any fan-out logic. File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 2224
+Warning (12030): Port "extclk" on the entity instantiation of "cyclonev_pll" is connected to a signal of width 1. The formal width of the signal in the module is 2.  The extra bits will be left dangling without any fan-out logic. File: c:/intelfpga/17.0/quartus/libraries/megafunctions/altera_pll.v Line: 2224
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[9]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[8]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[7]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[6]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[5]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[4]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[3]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[32]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[2]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[1]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[15]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[14]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[13]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[12]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[11]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[10]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (12161): Node "emu:emu|hps_io:hps_io|EXT_BUS[0]" is stuck at GND because node is in wire loop and does not have a source File: C:/Users/aberu/Downloads/NES_MiSTer-master/sys/hps_io.sv Line: 161
+Warning (276027): Inferred dual-clock RAM node "emu:emu|video_mixer:video_mixer|gamma_corr:gamma|gamma_curve_rtl_0" from synchronous design logic.  The read-during-write behavior of a dual-clock RAM is undefined and may not match the behavior of the original design.
+Warning (276020): Inferred RAM node "emu:emu|NES:nes|cart_top:multi_mapper|fds_mixed:snd_fds|fds_audio:fds_audio|mod_table_rtl_0" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design.
+Warning (276020): Inferred RAM node "emu:emu|NES:nes|cart_top:multi_mapper|fds_mixed:snd_fds|fds_audio:fds_audio|mod_table_rtl_1" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design.
+Warning (276020): Inferred RAM node "emu:emu|NES:nes|cart_top:multi_mapper|fds_mixed:snd_fds|fds_audio:fds_audio|wave_table_rtl_0" from synchronous design logic.  Pass-through logic has been added to match the read-during-write behavior of the original design.
+Warning (276027): Inferred dual-clock RAM node "shadowmask:HDMI_shadowmask|mask_lut_rtl_0" from synchronous design logic.  The read-during-write behavior of a dual-clock RAM is undefined and may not match the behavior of the original design.
+Warning (276027): Inferred dual-clock RAM node "ascal:ascal|o_dpram_rtl_0" from synchronous design logic.  The read-during-write behavior of a dual-clock RAM is undefined and may not match the behavior of the original design.
+Warning (276027): Inferred dual-clock RAM node "ascal:ascal|o_h_poly_rtl_0" from synchronous design logic.  The read-during-write behavior of a dual-clock RAM is undefined and may not match the behavior of the original design.
